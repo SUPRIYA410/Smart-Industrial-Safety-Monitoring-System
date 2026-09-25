@@ -1,5 +1,3 @@
-# Smart-Industrial-Safety-Monitoring-System
-Smart Industrial Safety Monitoring System is an ARM-based project designed to enhance workplace safety. It continuously monitors critical environmental parameters such as temperature, gas leakage, and smoke, providing real-time alerts through sensors and a microcontroller to help prevent industrial accidents.
 # Smart Industrial Safety Monitoring System
 
 ## 📌 Project Overview
